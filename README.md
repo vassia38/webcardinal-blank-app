@@ -7,7 +7,7 @@ Blank application template that uses WebCardinal.
 ### Clone it
 
 ```
-
+git clone https://github.com/vassia38/webcardinal-blank-app/ my-webcardinal-app
 ```
 
 ### Run local server
